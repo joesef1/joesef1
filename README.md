@@ -24,6 +24,10 @@
 <p align="left">
 </p>
 
+
+<p>&nbsp;<img align="center" src="https://streak-stats.demolab.com/?user=joesef1&theme=tokyonight" alt="joesef1's GitHub Streak" /></p>
+
+
 <h3 style="margin-bottom:20px" align="left">Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,sass,tailwind,firebase,vscode,git&perline=5)](https://skillicons.dev)
@@ -41,7 +45,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://streak-stats.demolab.com/?user=joesef1&theme=tokyonight" alt="joesef1's GitHub Streak" /></p>
 
 <p><img style="height: 195px;" align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=joesef1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="joesef1" /></p>
 
