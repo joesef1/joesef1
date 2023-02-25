@@ -14,8 +14,6 @@
 
 - 🌱 I’m currently learning more about **React**
 
-- 👯 I’m looking to collaborate on **social media project**
-
 - 👨‍💻 my projects are available at [https://yousef-portfoli0.netlify.app/](https://yousef-portfoli0.netlify.app/)
 
 - 📫 How to reach me **yousefel560@gmail.com**
