@@ -28,7 +28,7 @@
 
 <h3 style="margin-bottom:20px" align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,sass,tailwind,firebase,vscode,git&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,sass,tailwind,redux,firebase,vscode,git&perline=5)](https://skillicons.dev)
 
 
 
