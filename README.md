@@ -3,14 +3,15 @@
 
 
 
-<!-- <h1 align="center">Hi 👋, I'm yousef</h1> -->
-<!-- <h3 align="center">A passionate frontend developer</h3> -->
+<p style="font-size: 15px;" align="">Hi 👋, I'm yousef</p>
+
+<h2 align="canter">A passionate frontend developer</h2>
 <!-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSstZYNAsssLmMpQOBgFo6mI4d47NG39wCa9RTjCiT-IdWE1vXiWVl1u14JUBctK4M6tbY&usqp=CAU" alt="" /> -->
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joesef1&label=Profile%20views&color=0e75b6&style=flat" alt="joesef1" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=joesef1&label=Profile%20views&color=0e75b6&style=flat" alt="joesef1" /> </p> -->
 
-- 🔭 I’m currently working on **e-commerce**
+- 🔭 I’m currently working on **grocery store**
 
 - 🌱 I’m currently learning more about **React**
 
