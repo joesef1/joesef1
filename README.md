@@ -19,6 +19,10 @@
 
 - 📫 How to reach me **yousefel560@gmail.com**
 
+- 📝 get my **[resume](https://www.cakeresume.com/pdf/s--IulMHE0nkFIMKwHIEP9ZZw--/rGE4N.pdf)**
+
+
+
 
 <p align="left">
 </p>
