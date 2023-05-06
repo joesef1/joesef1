@@ -11,13 +11,13 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=joesef1&label=Profile%20views&color=0e75b6&style=flat" alt="joesef1" /> </p> -->
 
-- 🔭 I’m currently working on **grocery store**
+- 🔭 I’m currently working on **[grocery store](https://grocery-st0re.netlify.app/)**
 
 - 🌱 I’m currently learning more about **React**
 
 - 👨‍💻 my projects are available at [https://yousef-portfoli0.netlify.app/](https://yousef-portfoli0.netlify.app/)
 
-- 📫 How to reach me **yousefel560@gmail.com**
+- 📫 How to reach me **yousefelkholydev@gmail.com**
 
 - 📝 get my **[resume](https://www.cakeresume.com/pdf/s--IulMHE0nkFIMKwHIEP9ZZw--/rGE4N.pdf)**
 
