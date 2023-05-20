@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **yousefelkholydev@gmail.com**
 
-- 📝 get my **[resume](https://www.cakeresume.com/pdf/s--IulMHE0nkFIMKwHIEP9ZZw--/rGE4N.pdf)**
+- 📝 get my **[resume](https://www.cakeresume.com/pdf/s--dkPfSGfYEihGkC-zC0C4SQ--/rGkjR.pdf)**
 
 
 
