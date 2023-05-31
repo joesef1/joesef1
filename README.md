@@ -28,7 +28,7 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://streak-stats.demolab.com/?user=joesef1&theme=tokyonight" alt="joesef1's GitHub Streak" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://streak-stats.demolab.com/?user=joesef1&theme=tokyonight" alt="joesef1's GitHub Streak" /></p> -->
 
 
 <h3 style="margin-bottom:20px" align="left">Languages and Tools:</h3>
