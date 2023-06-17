@@ -21,7 +21,7 @@
 
 - 📝 get my **[resume](https://www.cakeresume.com/pdf/s--dkPfSGfYEihGkC-zC0C4SQ--/rGkjR.pdf)**
   
-- 📝 my profile on **[UpWork](https://www.upwork.com/freelancers/~01a3f97f872b1f60e1?viewMode=1)**
+-  my profile on **[UpWork](https://www.upwork.com/freelancers/~01a3f97f872b1f60e1?viewMode=1)**
 
 
 
