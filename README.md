@@ -11,7 +11,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=joesef1&label=Profile%20views&color=0e75b6&style=flat" alt="joesef1" /> </p> -->
 
-- 🔭 I’m currently working on **[Real mate]([https://gregarious-fenglisu-350cf4.netlify.app/])**
+- 🔭 I’m currently working on **[Real mate](https://gregarious-fenglisu-350cf4.netlify.app/)**
 
 - 🌱 I’m currently learning more about **React**
 
