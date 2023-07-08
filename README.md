@@ -11,7 +11,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=joesef1&label=Profile%20views&color=0e75b6&style=flat" alt="joesef1" /> </p> -->
 
-- 🔭 I’m currently working on **[grocery store](https://grocery-st0re.netlify.app/)**
+- 🔭 I’m currently working on **[Real mate]([https://grocery-st0re.netlify.app/](https://gregarious-fenglisu-350cf4.netlify.app/))**
 
 - 🌱 I’m currently learning more about **React**
 
@@ -35,7 +35,7 @@
 
 <h3 style="margin-bottom:20px" align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,sass,tailwind,redux,firebase,vscode,git&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,sass,tailwind,redux,firebase,typescript,vscode,git&perline=5)](https://skillicons.dev)
 
 
 
