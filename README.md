@@ -24,7 +24,7 @@
 
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=joesef1&theme=tokyonight" alt="joesef1's GitHub Streak" height="195"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joesef1&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" height="195" style="margin-left: 100px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joesef1&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages"  width="495" height="195" style="margin-left: 40px;"/>
 </p>
 
 
@@ -62,7 +62,7 @@
 
 
 
----
+
 
 
 
