@@ -10,10 +10,11 @@
 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=joesef1&label=Profile%20views&color=0e75b6&style=flat" alt="joesef1" /> </p> -->
+<!-- - 🔭 I’m currently working on **[Real mate](https://gregarious-fenglisu-350cf4.netlify.app/)**-->
 
-- 🔭 I’m currently working on **[Real mate](https://gregarious-fenglisu-350cf4.netlify.app/)**
 
-- 🌱 I’m currently learning more about **React**
+
+- 🌱 I’m currently learning more about **JavaScript & React**
 
 - 👨‍💻 my projects are available at [https://yousef-portfoli0.netlify.app/](https://yousef-portfoli0.netlify.app/)
 
@@ -36,7 +37,7 @@
  
 <h3 style="margin-bottom:20px" align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,sass,tailwind,redux,firebase,nodejs,express,mongodb,postman,netlify,vercel,vscode,git&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,redux,firebase,netlify,vercel,vscode,git&perline=8)](https://skillicons.dev)
 
 
 
