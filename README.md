@@ -3,7 +3,7 @@
 
 
 
-<p style="font-size: 15px;" align="">Hi 👋, I'm yousef</p>
+<h1 style="font-size: 15px;" align="center">Hi 👋, I'm yousef</h1>
 
 <h2 align="canter">A passionate frontend developer</h2>
 <!-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSstZYNAsssLmMpQOBgFo6mI4d47NG39wCa9RTjCiT-IdWE1vXiWVl1u14JUBctK4M6tbY&usqp=CAU" alt="" /> -->
