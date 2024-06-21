@@ -26,7 +26,7 @@ Keep coding, stay curious, and never stop learning! 🚀✨
 
 <h1 style="font-size: 15px;" align="left">💻 Tech Stack:</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,tailwind,bootstrap,redux,firebase,vscode,git&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,tailwind,bootstrap,redux,firebase,netlify,vercel,vscode,git&perline=15)](https://skillicons.dev)
 
 ![](https://streak-stats.demolab.com?user=joesef1&theme=radical&card_width=1080)
 
