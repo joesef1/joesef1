@@ -34,5 +34,4 @@ Keep coding, stay curious, and never stop learning! 🚀✨
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=joesef1&layout=compact&theme=radical&card_width=1080)
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=joesef1&label=Profile%20views&color=0e75b6&style=flat" alt="joesef1" /></p>
 
