@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate and dedicated Front End Developer
 
 If you share any of these interests or have a project in mind where we can collaborate, I'd love to connect and explore the endless possibilities together. Let's create innovative solutions and make a positive impact in the web development world!
 
-Feel free to explore my repositories and don't hesitate to reach out. Connect with me on [LinkedIn](https://www.linkedin.com/in/yousef-el-kholy/), my **[resume](https://www.cakeresume.com/pdf/s--dkPfSGfYEihGkC-zC0C4SQ--/rGkjR.pdf)**. Let's embark on this exciting journey of knowledge, collaboration, and growth!
+Feel free to explore my repositories and don't hesitate to reach out. Connect with me on [LinkedIn](https://www.linkedin.com/in/yousef-el-kholy/), my **[resume](https://app.enhancv.com/share/85033b4f/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)**. Let's embark on this exciting journey of knowledge, collaboration, and growth!
 
 Keep coding, stay curious, and never stop learning! 🚀✨
 
