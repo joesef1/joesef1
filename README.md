@@ -5,7 +5,7 @@
 Welcome to my GitHub profile! I'm a passionate and dedicated Front End Developer with over a year of experience, always eager to learn and explore new technologies.
 
 ## What I'm all about:
-
+   
 🌱 **Continuous Learning**: I have a deep passion for learning and staying up-to-date with the latest advancements in web development. Whether it's mastering new JavaScript frameworks, diving into CSS animations, or exploring the latest trends in UI/UX design, I love expanding my skill set.
 
 🚀 **Projects and Development**: Building beautiful, responsive, and user-friendly websites and web applications is what drives me. I enjoy working on personal projects, contributing to open source, and collaborating with others to bring ideas to life.
@@ -27,8 +27,6 @@ Keep coding, stay curious, and never stop learning! 🚀✨
 <h1 style="font-size: 15px;" align="left">💻 Tech Stack:</h1>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,tailwind,bootstrap,redux,firebase,netlify,vercel,vscode,git&perline=15)](https://skillicons.dev)
-
-
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=joesef1&bg_color=000000&color=417e86&line=ff0000&point=948484&area=true&hide_border=true)
 
