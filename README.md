@@ -26,7 +26,7 @@ Keep coding, stay curious, and never stop learning! 🚀✨
 
 <h1 style="font-size: 15px;" align="left">💻 Tech Stack:</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,tailwind,bootstrap,redux,firebase,netlify,vercel,vscode,git&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,angular,tailwind,bootstrap,redux,firebase,netlify,vercel,vscode,git&perline=15)](https://skillicons.dev)
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=joesef1&bg_color=000000&color=417e86&line=ff0000&point=948484&area=true&hide_border=true)
 
