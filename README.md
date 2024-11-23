@@ -28,8 +28,12 @@ Keep coding, stay curious, and never stop learning! 🚀✨
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,angular,tailwind,bootstrap,redux,firebase,netlify,vercel,vscode,git&perline=15)](https://skillicons.dev)
 
+
+<!-- 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=joesef1&bg_color=000000&color=417e86&line=ff0000&point=948484&area=true&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=joesef1&layout=compact&theme=radical&card_width=1080)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=joesef1&layout=compact&theme=radical&card_width=1080) -->
+
+
 
 
