@@ -1,4 +1,7 @@
+<!--
 ![Banner](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif)
+
+-->
 
 ![Hey typed effect](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&width=435&lines=Hey+there%2C+I'm+Yousef+Elkholy!+%F0%9F%91%8B)
 
@@ -19,15 +22,14 @@ Welcome to my GitHub profile! I'm a passionate and dedicated Front End Developer
 📚 **Continuous Improvement**: I'm always looking for ways to improve my productivity and workflow. Whether it's learning new tools or adopting best practices, I'm committed to becoming a better developer every day.
 
 If you share any of these interests or have a project in mind where we can collaborate, I'd love to connect and explore the endless possibilities together. Let's create innovative solutions and make a positive impact in the web development world!
-
+<!--
 Feel free to explore my repositories and don't hesitate to reach out. Connect with me on [LinkedIn](https://www.linkedin.com/in/yousef-el-kholy/), my **[resume](https://drive.google.com/file/d/1q7883hUgMgi3MoZtHmsJfjcqd_USBBPm/view?usp=sharing)**. Let's embark on this exciting journey of knowledge, collaboration, and growth!
-
+ -->
 Keep coding, stay curious, and never stop learning! 🚀✨
 
 <h1 style="font-size: 15px;" align="left">💻 Tech Stack:</h1>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,angular,tailwind,bootstrap,redux,firebase,netlify,vercel,vscode,git&perline=15)](https://skillicons.dev)
-
 
 <!-- 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=joesef1&bg_color=000000&color=417e86&line=ff0000&point=948484&area=true&hide_border=true)
