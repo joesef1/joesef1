@@ -1,31 +1,24 @@
-<!--
-![Banner](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif)
+<div align="center">
+    <h1>Yousef elkholy </h1>
+  <h3>Frontend Developer | Open Source contributor </h3>
+</div>
 
--->
 
-![Hey typed effect](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&width=435&lines=Hey+there%2C+I'm+Yousef+Elkholy!+%F0%9F%91%8B)
 
-Welcome to my GitHub profile! I'm a passionate and dedicated Front End Developer with over a year of experience, always eager to learn and explore new technologies.
 
 ## What I'm all about:
    
-🌱 **Continuous Learning**: I have a deep passion for learning and staying up-to-date with the latest advancements in web development. Whether it's mastering new JavaScript frameworks, diving into CSS animations, or exploring the latest trends in UI/UX design, I love expanding my skill set.
+🌱 Lifelong Learner – Passionate about staying up-to-date with web development trends, from JavaScript frameworks to UI/UX design.
 
-🚀 **Projects and Development**: Building beautiful, responsive, and user-friendly websites and web applications is what drives me. I enjoy working on personal projects, contributing to open source, and collaborating with others to bring ideas to life.
+🚀 Building & Creating – Love crafting responsive, user-friendly web apps, contributing to open source.
 
-👥 **Collaboration and Teamwork**: I thrive in collaborative environments where ideas flow freely and teamwork is key. I believe that great things are achieved when we work together and share our knowledge.
+👥 Team Player – Thrive in collaborative environments where sharing knowledge leads to great results.
 
-💡 **Open Source Contribution**: I'm an advocate for open source software. Contributing to open source projects allows me to give back to the community and continuously improve my skills by learning from other developers.
+💡 Open Source Advocate – Enjoy contributing to projects that help the developer community grow.
 
-🎨 **Design Enthusiast**: As a front-end developer, I have a keen eye for design and aesthetics. I enjoy creating visually appealing interfaces that provide an excellent user experience.
+🎨 Design Enthusiast – Strong focus on aesthetics and user experience in front-end development.
 
-📚 **Continuous Improvement**: I'm always looking for ways to improve my productivity and workflow. Whether it's learning new tools or adopting best practices, I'm committed to becoming a better developer every day.
-
-If you share any of these interests or have a project in mind where we can collaborate, I'd love to connect and explore the endless possibilities together. Let's create innovative solutions and make a positive impact in the web development world!
-<!--
-Feel free to explore my repositories and don't hesitate to reach out. Connect with me on [LinkedIn](https://www.linkedin.com/in/yousef-el-kholy/), my **[resume](https://drive.google.com/file/d/1q7883hUgMgi3MoZtHmsJfjcqd_USBBPm/view?usp=sharing)**. Let's embark on this exciting journey of knowledge, collaboration, and growth!
- -->
-Keep coding, stay curious, and never stop learning! 🚀✨
+📚 Always Improving – Committed to refining workflows, adopting best practices, and growing as a developer.
 
 <h1 style="font-size: 15px;" align="left">💻 Tech Stack:</h1>
 
