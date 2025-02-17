@@ -8,7 +8,7 @@
 
 ## What I'm all about:
    
-🌱 Lifelong Learner – Passionate about staying up-to-date with web development trends, from JavaScript frameworks to UI/UX design.
+🌱 Lifelong Learner – Passionate about staying up-to-date with web development trends.
 
 🚀 Building & Creating – Love crafting responsive, user-friendly web apps, contributing to open source.
 
