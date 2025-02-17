@@ -1,14 +1,8 @@
-<div align="center">
-    <h1>Yousef elkholy </h1>
-  <h3>Frontend Developer | Open Source contributor </h3>
-</div>
+<div align="center"> <h1>Yousef elkholy </h1> </div>
 
-
-
-
-## What I'm all about:
+ What I'm all about:
    
-🌱 Lifelong Learner – Passionate about staying up-to-date with web development trends.
+🌱 Lifelong Learner – Passionate about staying up-to-date with Frontend development trends.
 
 🚀 Building & Creating – Love crafting responsive, user-friendly web apps, contributing to open source.
 
