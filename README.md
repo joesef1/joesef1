@@ -8,7 +8,7 @@
 
 👥 Team Player – Thrive in collaborative environments where sharing knowledge leads to great results.
 
-💡 Open Source Advocate – Enjoy contributing to projects that help the developer community grow.
+<!-- 💡 Open Source Advocate – Enjoy contributing to projects that help the developer community grow. -->
 
 🎨 Design Enthusiast – Strong focus on aesthetics and user experience in front-end development.
 
