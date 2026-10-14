@@ -25,15 +25,15 @@
 <h2 align="center"> Connect With Me</h2>
 <br>
 <p align="center">
-  <a href="https://github.com/midnightshady">
+  <a href="https://github.com/joesef1">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/yousef-el-kholy/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:yousefelkholydev@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40">
   </a>
 </p>
