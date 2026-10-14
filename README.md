@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://i.pinimg.com/1200x/d5/17/3f/d5173f7652210ee72594f6eb1872bf62.jpg" alt="Banner" width="100%">
   <h1>Hi, I’m Yousef Elkholy</h1>
-  <h3>Full-Stack Engineer | Web & Mobile Application Development</h3>
+  <h3>Full-Stack developer | Web & Mobile Application Development</h3>
   <p>
     Building responsive, user-friendly applications with modern frontend and backend technologies.
   </p>
